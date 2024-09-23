@@ -1,4 +1,4 @@
-              >>SOURCE FORMAT FREE
+       >>SOURCE FORMAT FREE
        IDENTIFICATION DIVISION.
        PROGRAM-ID. 02-variables-and-math.
        AUTHOR. Shubham Mohanty.
